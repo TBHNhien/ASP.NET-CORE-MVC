@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[tLoaiDT] (
+    [MaDT]    CHAR (25)      NOT NULL,
+    [TenLoai] NVARCHAR (100) NULL,
+    CONSTRAINT [PK_tLoaiDT] PRIMARY KEY CLUSTERED ([MaDT] ASC)
+);
+

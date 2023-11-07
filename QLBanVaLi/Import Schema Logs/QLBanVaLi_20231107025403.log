@@ -1,0 +1,87 @@
+07/11/2023 9:54:03 AM	This log contains information about the import schema operation into project 'QLBanVaLi' on computer 'DESKTOP-4SNQUT1' by user 'Admin'.
+07/11/2023 9:54:03 AM	Import of database schema has started.
+07/11/2023 9:54:07 AM	Gathering database credentials
+07/11/2023 9:54:07 AM	Gathering database options
+07/11/2023 9:54:07 AM	Gathering generic database scoped configuration option
+07/11/2023 9:54:07 AM	Gathering users
+07/11/2023 9:54:07 AM	Gathering roles
+07/11/2023 9:54:07 AM	Gathering application roles
+07/11/2023 9:54:07 AM	Gathering role memberships
+07/11/2023 9:54:07 AM	Gathering filegroups
+07/11/2023 9:54:07 AM	Gathering full-text catalogs
+07/11/2023 9:54:07 AM	Gathering assemblies
+07/11/2023 9:54:07 AM	Gathering certificates
+07/11/2023 9:54:07 AM	Gathering asymmetric keys
+07/11/2023 9:54:07 AM	Gathering symmetric keys
+07/11/2023 9:54:07 AM	Gathering encrypted symmetric keys
+07/11/2023 9:54:07 AM	Gathering schemas
+07/11/2023 9:54:07 AM	Gathering XML schema collections
+07/11/2023 9:54:07 AM	Gathering user-defined data types
+07/11/2023 9:54:07 AM	Gathering user-defined types
+07/11/2023 9:54:07 AM	Gathering table types
+07/11/2023 9:54:07 AM	Gathering unique keys for table types
+07/11/2023 9:54:07 AM	Gathering primary keys for table types
+07/11/2023 9:54:07 AM	Gathering indexes for table types
+07/11/2023 9:54:08 AM	Gathering check constraints for table types
+07/11/2023 9:54:08 AM	Gathering default constraints for table types
+07/11/2023 9:54:08 AM	Gathering partition functions
+07/11/2023 9:54:08 AM	Gathering partition schemes
+07/11/2023 9:54:08 AM	Gathering functions
+07/11/2023 9:54:08 AM	Gathering encrypted functions
+07/11/2023 9:54:08 AM	Gathering aggregates
+07/11/2023 9:54:08 AM	Gathering procedures
+07/11/2023 9:54:08 AM	Gathering encrypted procedures
+07/11/2023 9:54:08 AM	Gathering tables
+07/11/2023 9:54:08 AM	Gathering primary keys
+07/11/2023 9:54:08 AM	Gathering unique constraints
+07/11/2023 9:54:08 AM	Gathering foreign keys
+07/11/2023 9:54:08 AM	Gathering default constraints
+07/11/2023 9:54:08 AM	Gathering check constraints
+07/11/2023 9:54:08 AM	Gathering views
+07/11/2023 9:54:08 AM	Gathering encrypted views
+07/11/2023 9:54:08 AM	Gathering indexes
+07/11/2023 9:54:08 AM	Gathering statistics
+07/11/2023 9:54:08 AM	Gathering full-text index stoplists
+07/11/2023 9:54:08 AM	Gathering search property lists
+07/11/2023 9:54:08 AM	Gathering search properties
+07/11/2023 9:54:08 AM	Gathering full-text indexes
+07/11/2023 9:54:08 AM	Gathering column store indexes
+07/11/2023 9:54:08 AM	Gathering spatial indexes
+07/11/2023 9:54:08 AM	Gathering XML indexes
+07/11/2023 9:54:08 AM	Gathering Selective XML indexes
+07/11/2023 9:54:08 AM	Gathering encrypted triggers
+07/11/2023 9:54:08 AM	Gathering triggers
+07/11/2023 9:54:08 AM	Gathering encrypted and clr ddl triggers
+07/11/2023 9:54:08 AM	Gathering ddl triggers
+07/11/2023 9:54:08 AM	Creating edge constraints
+07/11/2023 9:54:08 AM	Gathering synonyms
+07/11/2023 9:54:08 AM	Gathering defaults
+07/11/2023 9:54:08 AM	Gathering data constraint uddt bindings
+07/11/2023 9:54:08 AM	Gathering rules
+07/11/2023 9:54:08 AM	Gathering data constraint uddt bindings
+07/11/2023 9:54:08 AM	Gathering message types
+07/11/2023 9:54:08 AM	Gathering queues
+07/11/2023 9:54:08 AM	Gathering contracts
+07/11/2023 9:54:08 AM	Gathering services
+07/11/2023 9:54:08 AM	Gathering event notifications
+07/11/2023 9:54:08 AM	Gathering remote service bindings
+07/11/2023 9:54:08 AM	Gathering broker priorities
+07/11/2023 9:54:08 AM	Gathering signatures
+07/11/2023 9:54:08 AM	Gathering compression options
+07/11/2023 9:54:08 AM	Gathering sequence types
+07/11/2023 9:54:08 AM	Gathering security policies
+07/11/2023 9:54:08 AM	Gather column encryption keys
+07/11/2023 9:54:08 AM	Gathering column master keys
+07/11/2023 9:54:08 AM	Gathering external data sources
+07/11/2023 9:54:09 AM	Gathering external file formats
+07/11/2023 9:54:09 AM	Gathering external tables
+07/11/2023 9:54:09 AM	Gathering extended properties
+07/11/2023 9:54:13 AM	Gathering assemblies
+07/11/2023 9:54:13 AM	Gathering credentials
+07/11/2023 9:54:13 AM	Gathering logins
+07/11/2023 9:54:13 AM	Gathering server audits
+07/11/2023 9:54:14 AM	Scanning project for duplicate elements
+07/11/2023 9:54:14 AM	Finished duplicate element processing
+07/11/2023 9:54:14 AM	Finished importing database.
+07/11/2023 9:54:14 AM	A summary of the import was saved to the following location: C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\Import Schema Logs\QLBanVaLi_20231107025403.log
+07/11/2023 9:54:14 AM	Click Finish to continue...

@@ -1,0 +1,28 @@
+﻿CREATE TABLE [dbo].[tDanhMucSP] (
+    [MaSP]            CHAR (25)      NOT NULL,
+    [TenSP]           NVARCHAR (150) NULL,
+    [MaChatLieu]      CHAR (25)      NULL,
+    [NganLapTop]      NVARCHAR (55)  NULL,
+    [Model]           NVARCHAR (55)  NULL,
+    [CanNang]         FLOAT (53)     NULL,
+    [DoNoi]           FLOAT (53)     NULL,
+    [MaHangSX]        CHAR (25)      NULL,
+    [MaNuocSX]        CHAR (25)      NULL,
+    [MaDacTinh]       CHAR (25)      NULL,
+    [Website]         CHAR (155)     NULL,
+    [ThoiGianBaoHanh] FLOAT (53)     NULL,
+    [GioiThieuSP]     NVARCHAR (255) NULL,
+    [ChietKhau]       FLOAT (53)     NULL,
+    [MaLoai]          CHAR (25)      NULL,
+    [MaDT]            CHAR (25)      NULL,
+    [AnhDaiDien]      CHAR (100)     NULL,
+    [GiaNhoNhat]      MONEY          NULL,
+    [GiaLonNhat]      MONEY          NULL,
+    CONSTRAINT [PK_tDanhMucSP] PRIMARY KEY CLUSTERED ([MaSP] ASC),
+    CONSTRAINT [FK_tDanhMucSP_tChatLieu] FOREIGN KEY ([MaChatLieu]) REFERENCES [dbo].[tChatLieu] ([MaChatLieu]),
+    CONSTRAINT [FK_tDanhMucSP_tHangSX] FOREIGN KEY ([MaHangSX]) REFERENCES [dbo].[tHangSX] ([MaHangSX]),
+    CONSTRAINT [FK_tDanhMucSP_tLoaiDT] FOREIGN KEY ([MaDT]) REFERENCES [dbo].[tLoaiDT] ([MaDT]),
+    CONSTRAINT [FK_tDanhMucSP_tLoaiSP] FOREIGN KEY ([MaLoai]) REFERENCES [dbo].[tLoaiSP] ([MaLoai]),
+    CONSTRAINT [FK_tDanhMucSP_tQuocGia] FOREIGN KEY ([MaNuocSX]) REFERENCES [dbo].[tQuocGia] ([MaNuoc])
+);
+

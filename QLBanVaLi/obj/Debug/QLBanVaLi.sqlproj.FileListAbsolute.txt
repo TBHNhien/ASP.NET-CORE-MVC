@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\bin\Debug\QLBanVaLi.dacpac
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\bin\Debug\QLBanVaLi.dll
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\bin\Debug\QLBanVaLi.pdb
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\obj\Debug\QLBanVaLi.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\obj\Debug\QLBanVaLi.dll
+C:\Users\Admin\Desktop\web\ASP.NET COREMVC\QLBanVaLi\obj\Debug\QLBanVaLi.pdb
