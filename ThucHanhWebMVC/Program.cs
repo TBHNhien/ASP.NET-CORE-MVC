@@ -19,6 +19,7 @@ namespace ThucHanhWebMVC
 
             builder.Services.AddScoped<lLoaiSpRepository, LoaiSpRepository>();
 
+            builder.Services.AddSession();
 
             var app = builder.Build();
 
@@ -36,6 +37,7 @@ namespace ThucHanhWebMVC
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseSession();
 
             app.MapControllerRoute(
                 name: "default",
